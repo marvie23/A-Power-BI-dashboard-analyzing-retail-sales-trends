@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes the sales performance of a major American retail brand using Power BI. The analysis provides insights into total sales, unit sales, operating profit, and sales distribution across months, retailers, states, and cities.
+
 ![amk dash](https://github.com/user-attachments/assets/c7c0d8ae-fca1-4fea-865d-f8f452bebc9b)
 
 ## Project Objectives
@@ -9,6 +10,7 @@ This project analyzes the sales performance of a major American retail brand usi
 - Identify top-performing retailers and states.
 - Examine sales contributions by beverage brands.
 - Provide actionable insights to optimize sales and profitability.
+- 
 ![america sales dash 1](https://github.com/user-attachments/assets/a20de7c6-a825-4347-9368-18357d64d53a)
 
 ## Process
